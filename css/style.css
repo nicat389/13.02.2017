@@ -1,0 +1,42 @@
+.main{
+
+}
+
+.marginLeft{
+  margin-left: 33.3333px;  /*second and  third */
+}
+
+
+.width {
+    width: 400px;
+}
+
+.first{
+ float: left;
+}
+
+.second{
+  
+    float: left;
+}
+
+.third{
+    float: left;
+}
+
+.picFirst{
+    height: 200px;
+
+}
+
+.picSecond {
+    height: 400px;
+}
+
+.picThird{
+    height: 330px;
+}
+
+.picFourth{
+    height: 144px;
+}
